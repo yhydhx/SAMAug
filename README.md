@@ -6,7 +6,7 @@ This paper introduces SAMAug, a novel visual point augmentation method for the S
 
 Our framework is as follows.
 
-<img src="fig/f1.pdf" width=700></img>
+<img src="fig/f1.png" width=700></img>
 
 ## Environment
 
