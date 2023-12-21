@@ -430,6 +430,7 @@ def main_best_first_sam_saliency_all_positive(args):
             temp_point_list.append(first_point.copy())
             temp_dice_list.append(first_dice)
 
+            # Select a random point that demonstrates a higher dice score among the three loops.
             if first_dice > 0.3:
                 break
 
